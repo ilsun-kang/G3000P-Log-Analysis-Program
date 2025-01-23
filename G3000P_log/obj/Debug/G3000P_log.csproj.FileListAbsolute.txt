@@ -1,0 +1,10 @@
+D:\일선프로그램\G3000P_log\bin\Debug\G3000P_log.exe.config
+D:\일선프로그램\G3000P_log\bin\Debug\G3000P_log.exe
+D:\일선프로그램\G3000P_log\bin\Debug\G3000P_log.pdb
+D:\일선프로그램\G3000P_log\obj\Debug\G3000P_log.csproj.AssemblyReference.cache
+D:\일선프로그램\G3000P_log\obj\Debug\G3000P_log.Form1.resources
+D:\일선프로그램\G3000P_log\obj\Debug\G3000P_log.Properties.Resources.resources
+D:\일선프로그램\G3000P_log\obj\Debug\G3000P_log.csproj.GenerateResource.cache
+D:\일선프로그램\G3000P_log\obj\Debug\G3000P_log.csproj.CoreCompileInputs.cache
+D:\일선프로그램\G3000P_log\obj\Debug\G3000P_log.exe
+D:\일선프로그램\G3000P_log\obj\Debug\G3000P_log.pdb
